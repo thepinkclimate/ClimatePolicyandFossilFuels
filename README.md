@@ -1,6 +1,7 @@
 # ClimatePolicyandFossilFuels
 Code for the paper "Climate policy does not discourage oil and gas investments and requires global coordination"
-Francesca Larosa*, Figo Lau, Nadia Ameli
+
+Authors: Francesca Larosa*, Figo Lau, Nadia Ameli
 
 *Corresponding author: f.larosa@ucl.ac.uk 
 
